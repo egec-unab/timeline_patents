@@ -727,6 +727,7 @@ function App() {
   return (
     <div className="App">
       <h1 className="main-title">Description of Patents Included in the Study</h1>
+      <h1 className="sub-title">Poster 1248 Complementary Information</h1>
       <Timeline key="A1" data={data}/>
       <Footer/>
     </div>

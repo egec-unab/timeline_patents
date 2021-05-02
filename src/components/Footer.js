@@ -23,10 +23,14 @@ const Footer = () => {
             </div>
 
             <div className="footer-text">
-                <h1><a href="https://www.unab.edu.co/investigacion/grupo-de-estudio-gen%C3%A9tico-de">Grupo de Estudio Genético de Enfermedades Complejas</a></h1>
-                <h2>Facultad de Salud, Universidad Autónoma de Bucaramanga</h2>
+                <h1>
+                    <a href="https://www.unab.edu.co/investigacion/grupo-de-estudio-gen%C3%A9tico-de">
+                        Universidad Autónoma de Bucaramanga
+                    </a>
+                </h1>
+                <h2>Grupo de Estudio Genético de Enfermedades Complejas</h2>
 
-                <h3>Investigadores:</h3>
+                <h3>Authors:</h3>
                 <p>
                     {
                         investigadores.join(", ")
