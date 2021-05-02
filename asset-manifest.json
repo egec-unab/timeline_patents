@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/timeline_patents/static/css/main.aeafb739.chunk.css",
+    "main.js": "/timeline_patents/static/js/main.972147a2.chunk.js",
+    "main.js.map": "/timeline_patents/static/js/main.972147a2.chunk.js.map",
+    "runtime-main.js": "/timeline_patents/static/js/runtime-main.b275e260.js",
+    "runtime-main.js.map": "/timeline_patents/static/js/runtime-main.b275e260.js.map",
+    "static/js/2.f50f5420.chunk.js": "/timeline_patents/static/js/2.f50f5420.chunk.js",
+    "static/js/2.f50f5420.chunk.js.map": "/timeline_patents/static/js/2.f50f5420.chunk.js.map",
+    "static/js/3.d5c9d178.chunk.js": "/timeline_patents/static/js/3.d5c9d178.chunk.js",
+    "static/js/3.d5c9d178.chunk.js.map": "/timeline_patents/static/js/3.d5c9d178.chunk.js.map",
+    "index.html": "/timeline_patents/index.html",
+    "static/css/main.aeafb739.chunk.css.map": "/timeline_patents/static/css/main.aeafb739.chunk.css.map",
+    "static/js/2.f50f5420.chunk.js.LICENSE.txt": "/timeline_patents/static/js/2.f50f5420.chunk.js.LICENSE.txt",
+    "static/media/atom.16966268.svg": "/timeline_patents/static/media/atom.16966268.svg",
+    "static/media/cert.927bca2a.svg": "/timeline_patents/static/media/cert.927bca2a.svg",
+    "static/media/idea.dfd86491.svg": "/timeline_patents/static/media/idea.dfd86491.svg",
+    "static/media/minciencias.8bc3a46b.jpeg": "/timeline_patents/static/media/minciencias.8bc3a46b.jpeg",
+    "static/media/unab2.d3deb43a.svg": "/timeline_patents/static/media/unab2.d3deb43a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b275e260.js",
+    "static/js/2.f50f5420.chunk.js",
+    "static/css/main.aeafb739.chunk.css",
+    "static/js/main.972147a2.chunk.js"
+  ]
+}
