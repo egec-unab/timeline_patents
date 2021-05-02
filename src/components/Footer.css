@@ -1,0 +1,59 @@
+.footer-container {
+    background: #009cdeff;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.logo-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.logo-container img {
+    width: 100%;
+}
+
+.footer-container h1 a{
+    color: rgb(182, 224, 252);
+    /* color: black; */
+    text-decoration-style: none;
+    font-size: 2.5rem;
+}
+
+.footer-container h2 {
+    color: rgb(154, 215, 255);
+    font-size: 1.7rem;
+    font-style: italic;
+}
+
+.footer-container h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.footer-text {
+    color: rgb(151, 208, 247);
+    padding: 10px;
+}
+
+#logo-minciencias {
+    width: 75%;
+}
+
+@media (max-width: 768px) {
+    .footer-container {
+        background: #009cdeff;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
