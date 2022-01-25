@@ -9,7 +9,7 @@ const TimelineItem = (props) => {
     return (
         <div className={`col-sm-6 news-item ${alignmentClass}`}>
             <div className="news-content">
-                <h1 className="news-title">{props.item.Patent}</h1>
+                <h1 className="news-title"><a href={props.item.URL}>{props.item.Patent}</a></h1>
                 <h5 className="news-subtitle">{props.item.Applicants.join(", ")}</h5>
                 <IconsPanel 
                     Inventors={props.item.Inventors} 
